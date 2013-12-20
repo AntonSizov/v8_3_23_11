@@ -1,0 +1,241 @@
+10
+
+dir
+1685
+http://gyp.googlecode.com/svn/trunk/test
+http://gyp.googlecode.com/svn
+
+
+
+2013-07-30T21:27:08.063651Z
+1685
+jochen@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+78cadc50-ecff-11dd-a971-7dbc132099af
+
+actions-subdir
+dir
+
+escaping
+dir
+
+ios
+dir
+
+configurations
+dir
+
+rules
+dir
+
+sanitize-rule-names
+dir
+
+external-cross-compile
+dir
+
+ninja
+dir
+
+linux
+dir
+
+same-gyp-name
+dir
+
+actions
+dir
+
+restat
+dir
+
+small
+dir
+
+relative
+dir
+
+home_dot_gyp
+dir
+
+defines
+dir
+
+same-rule-output-file-name
+dir
+
+rules-use-built-dependencies
+dir
+
+dependency-copy
+dir
+
+mac
+dir
+
+multiple-targets
+dir
+
+self-dependency
+dir
+
+rules-dirname
+dir
+
+intermediate_dir
+dir
+
+exclusion
+dir
+
+toolsets
+dir
+
+rules-rebuild
+dir
+
+same-source-file-name
+dir
+
+additional-targets
+dir
+
+copies
+dir
+
+library_dirs
+dir
+
+dependencies
+dir
+
+win
+dir
+
+builddir
+dir
+
+custom-generator
+dir
+
+many-actions
+dir
+
+hello
+dir
+
+toplevel-dir
+dir
+
+compilable
+dir
+
+rename
+dir
+
+actions-bare
+dir
+
+gyp-defines
+dir
+
+hard_dependency
+dir
+
+make
+dir
+
+standalone-static-library
+dir
+
+cxxflags
+dir
+
+module
+dir
+
+sibling
+dir
+
+compiler-override
+dir
+
+same-target-name
+dir
+
+standalone
+dir
+
+msvs
+dir
+
+actions-multiple
+dir
+
+actions-none
+dir
+
+same-target-name-different-directory
+dir
+
+cflags
+dir
+
+rules-variables
+dir
+
+library
+dir
+
+defines-escaping
+dir
+
+include_dirs
+dir
+
+build-option
+dir
+
+lib
+dir
+
+variables
+dir
+
+no-output
+dir
+
+errors
+dir
+
+make_global_settings
+dir
+
+subdirectory
+dir
+
+assembly
+dir
+
+product
+dir
+
+generator-output
+dir
+
+link-objects
+dir
+
