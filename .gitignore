@@ -46,7 +46,6 @@ shell_g
 /test/mozilla/downloaded_*
 /test/test262/data
 /test/test262/test262-*
-/third_party
 /tools/jsfunfuzz
 /tools/jsfunfuzz.zip
 /tools/oom_dump/oom_dump

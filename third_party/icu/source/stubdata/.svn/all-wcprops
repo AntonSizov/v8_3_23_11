@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/74538/trunk/deps/third_party/icu46/source/stubdata
+END
+stubdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/74538/trunk/deps/third_party/icu46/source/stubdata/stubdata.c
+END
+stubdata.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/stubdata/stubdata.vcxproj.filters
+END
+stubdata.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/stubdata/stubdata.vcxproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/stubdata/Makefile.in
+END

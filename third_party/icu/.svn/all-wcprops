@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/214189/trunk/deps/third_party/icu46
+END
+vs2012.patch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/161442/trunk/deps/third_party/icu46/vs2012.patch
+END
+APIChangeReport.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/APIChangeReport.html
+END
+icu.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/214189/trunk/deps/third_party/icu46/icu.gyp
+END
+icu4c.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/icu4c.css
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/210659/trunk/deps/third_party/icu46/README.chromium
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/readme.html
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/119726/trunk/deps/third_party/icu46/LICENSE
+END
+unicode-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/unicode-license.txt
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/license.html
+END

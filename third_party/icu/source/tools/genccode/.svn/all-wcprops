@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genccode
+END
+genccode.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genccode/genccode.c
+END
+genccode.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genccode/genccode.vcxproj.filters
+END
+genccode.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genccode/genccode.vcxproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genccode/Makefile.in
+END
+genccode.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genccode/genccode.8.in
+END

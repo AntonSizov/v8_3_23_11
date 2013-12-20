@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/211848/trunk/deps/third_party/icu46/source
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/config.sub
+END
+icudefs.mk.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/icudefs.mk.in
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/install-sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/Makefile.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/configure.in
+END
+runConfigureICU
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/runConfigureICU
+END
+Doxyfile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/Doxyfile.in
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/config.guess
+END

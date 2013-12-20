@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gentest
+END
+gentest.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gentest/gentest.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gentest/Makefile.in
+END
+gentest.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gentest/gentest.vcxproj
+END
+genres32.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gentest/genres32.c
+END
+gentest.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gentest/gentest.c
+END
+gentest.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gentest/gentest.vcxproj.filters
+END

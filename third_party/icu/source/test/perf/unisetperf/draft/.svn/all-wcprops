@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/unisetperf/draft
+END
+span16perf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/unisetperf/draft/span16perf.sh
+END
+span8perf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/unisetperf/draft/span8perf.sh
+END
+trieset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/unisetperf/draft/trieset.cpp
+END
+contperf.bat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/unisetperf/draft/contperf.bat
+END
+unicont.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/unisetperf/draft/unicont.h
+END
+contperf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/unisetperf/draft/contperf.sh
+END
+span16perf.bat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/unisetperf/draft/span16perf.bat
+END
+bitset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/unisetperf/draft/bitset.cpp
+END
+span8perf.bat
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/unisetperf/draft/span8perf.bat
+END

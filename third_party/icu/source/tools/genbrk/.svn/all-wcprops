@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genbrk
+END
+genbrk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genbrk/genbrk.cpp
+END
+genbrk.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genbrk/genbrk.vcxproj.filters
+END
+genbrk.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genbrk/genbrk.1.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genbrk/Makefile.in
+END
+genbrk.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/genbrk/genbrk.vcxproj
+END

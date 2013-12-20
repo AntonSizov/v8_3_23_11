@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/73411/trunk/deps/third_party/icu46/source/tools
+END
+icu-svnprops-check.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/icu-svnprops-check.py
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/Makefile.in
+END

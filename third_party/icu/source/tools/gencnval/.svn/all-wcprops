@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gencnval
+END
+gencnval.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gencnval/gencnval.1.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gencnval/Makefile.in
+END
+gencnval.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gencnval/gencnval.vcxproj
+END
+gencnval.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gencnval/gencnval.c
+END
+gencnval.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/tools/gencnval/gencnval.vcxproj.filters
+END

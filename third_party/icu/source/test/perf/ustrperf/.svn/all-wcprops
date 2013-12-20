@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/ustrperf
+END
+stringperf.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/ustrperf/stringperf.h
+END
+StringPerf.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/ustrperf/StringPerf.pl
+END
+stringperf.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/ustrperf/stringperf.vcxproj
+END
+StringPerf_r.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/ustrperf/StringPerf_r.pl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/ustrperf/Makefile.in
+END
+stringperf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/ustrperf/stringperf.cpp
+END
+stringperf.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/ustrperf/stringperf.vcxproj.filters
+END

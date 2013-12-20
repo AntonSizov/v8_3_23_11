@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/unidata/norm2
+END
+nfkc_cf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/unidata/norm2/nfkc_cf.txt
+END
+nfkc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/unidata/norm2/nfkc.txt
+END
+uts46.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/unidata/norm2/uts46.txt
+END
+nfc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/unidata/norm2/nfc.txt
+END

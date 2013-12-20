@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/DateFmtPerf
+END
+DateFmtPerf.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/DateFmtPerf/DateFmtPerf.h
+END
+DateFmtPerf.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/DateFmtPerf/DateFmtPerf.vcxproj
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/DateFmtPerf/ReadMe.txt
+END
+datedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/DateFmtPerf/datedata.h
+END
+DateFmtPerf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/DateFmtPerf/DateFmtPerf.cpp
+END
+DateFmtPerf.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/DateFmtPerf/DateFmtPerf.vcxproj.filters
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/DateFmtPerf/Makefile.in
+END
+breakdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/DateFmtPerf/breakdata.h
+END
+collationdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/DateFmtPerf/collationdata.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/ucnvavailperf
+END
+ucnvavailperf.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/ucnvavailperf/ucnvavailperf.vcxproj
+END
+ucnvavailperf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/test/perf/ucnvavailperf/ucnvavailperf.cpp
+END

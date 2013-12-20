@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/112069/trunk/deps/third_party/icu46/source/data/misc
+END
+zoneinfo64.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/112069/trunk/deps/third_party/icu46/source/data/misc/zoneinfo64.txt
+END
+likelySubtags.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/misc/likelySubtags.txt
+END
+plurals.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/misc/plurals.txt
+END
+supplementalData.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/misc/supplementalData.txt
+END
+keyTypeData.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/misc/keyTypeData.txt
+END
+metaZones.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/112069/trunk/deps/third_party/icu46/source/data/misc/metaZones.txt
+END
+miscfiles.mk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/misc/miscfiles.mk
+END
+windowsZones.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/112069/trunk/deps/third_party/icu46/source/data/misc/windowsZones.txt
+END
+icustd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/misc/icustd.txt
+END
+icuver.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/misc/icuver.txt
+END
+numberingSystems.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/misc/numberingSystems.txt
+END
+icudata.rc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/68397/trunk/deps/third_party/icu46/source/data/misc/icudata.rc
+END
+timezoneTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/112069/trunk/deps/third_party/icu46/source/data/misc/timezoneTypes.txt
+END
